@@ -11,7 +11,7 @@ Technical University of Munich, Xiamen University
 
 VPC-Net is a neural network to synthesize complete, dense, and uniform point clouds for vehicles from MLS data. The arXiv version of VPC-Net can be found [here](https://arxiv.org/abs/2008.03404).
 
-![xia-VPCNet-Real-time-vehicle-com](./demo/xia_VPCNet_Real-time vehicle completion using Kitti dataset.gif)
+![xia-VPCNet-Real-time-vehicle-com](https://github.com/Yan-Xia/VPC-Net/demo/xia_VPCNet_Real-time vehicle completion using Kitti dataset.gif)
 
 > ```
 > @article{xia2021vpc,
