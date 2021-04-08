@@ -5,5 +5,5 @@ Yan Xia, Yusheng Xu, Cheng Wang, Uwe Stilla
 
 Technical University of Munich, Xiamen University
 
-<video src="/Users/xyan/Desktop/xia_VPCNet_Real-time vehicle completion using Kitti dataset.mp4"></video>
+<video src="./demo/xia_VPCNet_Real-time vehicle completion using Kitti dataset.mp4"></video>
 
