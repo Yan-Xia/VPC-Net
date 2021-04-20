@@ -37,7 +37,7 @@ Please follow [PointNet++](https://github.com/charlesq34/pointnet2) to compile T
 
 ------
 
-1. Download `shapenet_car` directory from Google Drive. 
+1. Download `shapenet_car` directory on [Google Drive](https://drive.google.com/drive/folders/1LD6ka3ZZg3DzG58-eAunbhgFx3cTUn-v?usp=sharing). 
 2. Run `python train.py`
 
 ### Testing
